@@ -4,7 +4,7 @@
 
 #### I'm a website developer at Perdoceo Education where I'm currently working on messenger and discussion board applications to support students and faculty in their communication with each other. 
 
-#### When I'm not working (per se), I enjoy making music. Check out my SoundCloud here.
+#### When I'm not working, I enjoy making music. Check out my SoundCloud here.
 
 <!--
 **roryjames/roryjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
