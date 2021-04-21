@@ -1,6 +1,6 @@
-### Hi there 👋 🤘
+## Hi there 👋 🤘
 
-## Welcome to my Github page where you will find a bunch of different projects!
+### Welcome to my Github page where you will find a bunch of different projects
 
 <!--
 **roryjames/roryjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
