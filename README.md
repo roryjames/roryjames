@@ -2,7 +2,7 @@
 
 ### Welcome to my Github page.
 
-#### I'm a website developer at Perdoceo Education where I'm currently working on messenger and discussion board applications to support students and faculty in their communication with each other. 
+#### I'm a software developer for Northwestern Medicine where I work on a bunch of cool stuff to help people find the care they need. 
 
 #### When I'm not working, I enjoy making music. Check out my SoundCloud here.  🤘
 
